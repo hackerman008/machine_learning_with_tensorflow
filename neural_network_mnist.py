@@ -43,8 +43,8 @@ def main():
     learning_rate = 0.003
     training_epochs = 20000
     batch_size = 100
-    n_hidden_1 = 250 # 1st layer number of features
-    n_hidden_2 = 250 # 2nd layer number of features
+    n_hidden_1 = 200 # 1st layer number of features
+    n_hidden_2 = 200 # 2nd layer number of features
 
     
     display_steps = 500
